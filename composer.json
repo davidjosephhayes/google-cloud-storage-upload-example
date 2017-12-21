@@ -1,0 +1,15 @@
+{
+    "name": "david/gcloud-storage-test",
+    "require-dev": {
+    },
+    "authors": [
+        {
+            "name": "David Hayes",
+            "email": "david@blackbrick.software"
+        }
+    ],
+    "require": {
+        "google/cloud": "^0.47.0",
+        "google/appengine-php-sdk": "^1.9"
+    }
+}
